@@ -1,6 +1,6 @@
 import sys
 print('HELLO WORLD')
-print('Production?')
+print('Testing')
 
 def continue_queue_on_input(student_name: str):
     user_input = input("Continue? (y/n): ")
